@@ -1,1 +1,1 @@
-# simple-four-operational-calculator-in-lua
+# A simple four operational calculator made with Lua
